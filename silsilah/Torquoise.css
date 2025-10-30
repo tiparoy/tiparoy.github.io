@@ -1,4 +1,4 @@
-.SilsilahArea{background:#030708;min-height:100%;width:calc(100% - 20px);position:absolute;border-radius:20px 20px 0 0}
+.SilsilahArea{background:#030708;min-height:100%;width:calc(100% - 20px);border-radius:20px 20px 0 0}
 ul,#myUL{list-style-type:none}
 #myUL{margin:0;padding:0}
 .sildata{display:none}
@@ -229,4 +229,5 @@ to{transform:scale(1)}
     padding: 10px 15px;
   }
 }
+
 
