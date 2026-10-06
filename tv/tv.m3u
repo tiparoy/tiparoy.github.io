@@ -47,7 +47,7 @@ https://drive.usercontent.google.com/download?id=1qkx_cHc2Un15Lkt_SyssX5KzzWVNNi
 <==========================================___Nasional=====================================================>
 #EXTINF:-1 group-logo="https://cdn.jsdelivr.net/gh/roytipa/roytipa.github.io/png/nasional.png",___Nasional
 
-#EXTINF:-1 group-title="___Nasional" tvg-id="ANTV.id" tvg-logo="https://cdn.jsdelivr.net/gh/allanfals/tvberbagi/png/antv.png",ANTV
+#EXTINF:-1 group-title="___Nasional" tvg-id="ANTV.id" tvg-logo="https://cdn.jsdelivr.net/gh/allanfals/tvberbagi/png/antv.png",ANTV #
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
@@ -656,6 +656,43 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d
 
 <==========================================Titip=====================================================>
 #EXTINF:-1 group-logo="",Titip
+
+#EXTINF:-1 group-title="Titip" tvg-id="ANTV.id" tvg-logo="https://mimipipi22.github.io/logo/nasional/antv.jpg",ANTV (CALISTA)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=782&type=drm
+https://calistaiptv.my.id/indopart/play.mpd?id=782&type=dash
+
+#EXTINF:-1 group-title="Titip" tvg-id="ANTV.id" tvg-logo="https://mimipipi22.github.io/logo/nasional/antv.jpg",ANTV (CBM)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.19.1&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QU5UVg/manifest.mpd?signature=NWQzZDE2MzdjODZlOTBjYzBlNjc5ZjZlZmM1ZWMxNDU=&time=15250252221
+
+#EXTINF:-1 group-title="Titip" tvg-id="ANTV.id" tvg-logo="https://mimipipi22.github.io/logo/nasional/antv.jpg",ANTV (V+)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
+#EXTINF:-1 group-title="Titip" tvg-id="ANTV.id" tvg-logo="https://mimipipi22.github.io/logo/nasional/antv.jpg",ANTV (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=010
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
+#EXTINF:-1 group-title="Titip" tvg-id="ANTV.id" tvg-logo="https://mimipipi22.github.io/logo/nasional/antv.jpg",ANTV (VDO)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 
 #EXTINF:-1 group-title="Titip" tvg-id="iNews.id" tvg-logo="https://cdn.jsdelivr.net/gh/tiparoy/sorong/png/inews.png",iNews 3
 #EXTVLCOPT:http-user-agent=android-R+
